@@ -10,7 +10,7 @@ import java.util.Base64;
 
 public class ChatClient {
     //Server IP and port to connect to
-    private static final String SERVER_IP = "192.168.137.184";
+    private static final String SERVER_IP = "XXX.XXX.XXX.XXX";
     private static final int SERVER_PORT = 8080;
     //these are the swing components to make the GUI
     private JFrame frame;
